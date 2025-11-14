@@ -1,5 +1,7 @@
 Elden Ring (FitGirl Repack) – Proton + Lutris Installation Guide
 
+Before you start make sure you downloaded torrent setup.exe files 
+
 Arch Linux Setup Documentation
 
 This document describes the full process used to install Elden Ring (FitGirl Repack) on Arch Linux using Proton-GE and Lutris.
